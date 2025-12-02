@@ -1,0 +1,23 @@
+export const nameBand = 'LOS ENANITOS VERDES';
+export let nameSongs = [
+	"POR EL RESTO ", /*1*/
+	"TE VI EN UN TREN ", /*2*/
+	"TU CARCEL ", /*3*/
+	"CADA VEZ QUE DIGO ADIÓS", /*4*/
+	"IGUAL QUE AYER", /*5*/
+	"LA MURALLA VERDE", /*6*/
+	"LAMENTO BOLIVIANO", /*7*/
+	"GUITARRAS BLANCAS", /*8*/
+	"LUZ DE DIA", /*9*/
+	"EL GUERRERO", /*10*/
+	"SOLO DAME OTRA OPORTUNIDAD", /*11*/
+	"SUMAR TIEMPO NO ES SUMAR AMOR", /*12*/
+	"PASOS", /*13*/
+	"ATRAPADO POR TU CORAZÓN", /*14*/
+	"MI PRIMER DIA SIN TI", /*15*/
+	"MARIPOSAS", /*16*/
+	"AMORES LEJANOS", /*17*/
+	"Y AHORA TE VAS", /*18*/
+	"TAN SOLO UN INSTANTE", /*19*/
+	"UNA ABSURDA CANCION DE AMOR", /*20*/
+]
